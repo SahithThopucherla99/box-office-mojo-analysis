@@ -23,12 +23,6 @@ Data were scraped from the worldwide box office tables on Box Office Mojo, speci
 
 Each page lists films ranked by worldwide gross and includes domestic and foreign grosses and percentage shares.
 
-## Usage
-
-1. Run the notebook `analysis.ipynb` in a Jupyter environment to reproduce the scraping and analysis.
-2. Ensure you have an internet connection; the notebook fetches data directly from Box Office Mojo.
-3. The notebook uses `pandas`, `numpy`, `seaborn`, and `matplotlib`.
-
 ## Findings Overview
 
 The analysis shows that average revenue for the top 10 films dropped significantly in 2020 due to the COVID‑19 pandemic but recovered in later years. Domestic revenue shares remained fairly stable across the five‑year span, and films with strong domestic grosses typically also performed well internationally. A few films stood out by earning the vast majority of their box office revenue in the domestic market.
